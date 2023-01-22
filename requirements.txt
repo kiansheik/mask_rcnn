@@ -9,3 +9,7 @@ opencv-python
 h5py
 imgaug
 IPython[all]
+paddleocr
+python-Levenshtein
+paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
+cairosvg

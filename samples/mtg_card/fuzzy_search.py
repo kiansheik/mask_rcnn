@@ -17,7 +17,7 @@ import numpy as np
 ROOT_DIR = os.path.abspath("../../")
 data_dir = os.path.join(ROOT_DIR, "assets", "augmented_data")
 
-with open(os.path.join(data_dir, "default-cards-20230101220647.json"), encoding="utf8") as f:
+with open(os.path.join(data_dir, "default-cards-20230121220708.json"), encoding="utf8") as f:
     cards = json.load(f)
 
 cards = pd.DataFrame(cards)
