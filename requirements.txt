@@ -13,3 +13,4 @@ paddleocr
 python-Levenshtein
 paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
 cairosvg
+pyzbar
